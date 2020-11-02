@@ -12,6 +12,11 @@
  
   
 <h1>Регистрация и вход</h1>
+<hr/>
+  <img src="https://sun9-28.userapi.com/hYeFTDhNWW9SmkK5iOYXV6lIudLCVm7lII4NpA/tPp8IPbKV24.jpg"/>
+<hr/>
+  <img src="https://sun9-26.userapi.com/UrDb4eMd2okcStjKAa-abjtVKgEGVWGvsBbplw/7mRp4KInY78.jpg"/>
+<hr/>
   
 <h1>Поиск по запросу в поисковой строке </h1>
   
@@ -25,8 +30,8 @@
 <br/>
 2
 <img src="https://sun9-32.userapi.com/qcjAZZHJnXpCHKD6AfBYxsx3rvLHKuwQTURUhQ/cHc4zboO1Bg.jpg"/>
-3
-<img src="https://sun9-28.userapi.com/hYeFTDhNWW9SmkK5iOYXV6lIudLCVm7lII4NpA/tPp8IPbKV24.jpg"/>
+
+
 4
 <img src="https://sun9-54.userapi.com/4o0Sf3CG7x1kJdeHaeqzR5hJnx708Gw1CJleow/qaR-lAy1acE.jpg"/>
 5
@@ -48,7 +53,7 @@
 13
 <img src="https://sun9-62.userapi.com/XjY1zFpTOQvB08GlbIcKFi5kpserF-8-aie5Sw/_QgDwErhhrc.jpg"/>
 
-14
-<img src="https://sun9-26.userapi.com/UrDb4eMd2okcStjKAa-abjtVKgEGVWGvsBbplw/7mRp4KInY78.jpg"/>
+
+
 
 
