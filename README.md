@@ -20,9 +20,9 @@
 <img src="https://sun9-48.userapi.com/c6rGHnBAriU82KJenepjErM1i8eMbyG5CZ1wsg/MvhcZed4_Gc.jpg"/>
   <hr/>
   <img src="https://sun9-52.userapi.com/6txgpjDxBeQZyKgsfdVwg_e5BW3w-hf0ZyEyfg/-3IV5le2n7c.jpg "/>
-<hr/>
-
 <h2>меню навигации в которой содержатся: статьи о разном кофе, поиск по словам и возможность загружать картинку с пачкой кофе.  </h2>
+  <hr/>
+
 
 
 <h1>Поиск по запросу в поисковой строке </h1>
