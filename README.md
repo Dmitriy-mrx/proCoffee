@@ -4,4 +4,4 @@
 
 <img src="https://sun9-14.userapi.com/hO_bveKo91MduzV7eKE5i_lEaC3AEOEyBjibow/x9hMVNL15oY.jpg"/>
 
-<img src="https://sun9-48.userapi.com/gSDMD6FMPLekitITur3Uq3mwyzh2QbfiiEVkTg/4FYRWxW2mW8.jpg"/>
+<img src="https://sun9-62.userapi.com/XjY1zFpTOQvB08GlbIcKFi5kpserF-8-aie5Sw/_QgDwErhhrc.jpg"/>
