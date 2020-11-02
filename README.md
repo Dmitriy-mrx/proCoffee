@@ -22,8 +22,8 @@
 
 <img src="https://sun9-52.userapi.com/6txgpjDxBeQZyKgsfdVwg_e5BW3w-hf0ZyEyfg/-3IV5le2n7c.jpg "/>
 
-<img src="https://sun9-47.userapi.com/3Rm2wdcgyZoJRNZJMuNson4g9Mjb-AsJQcVZyg/un23AS4k-pU.jpg"/>
+<img src="https://sun9-62.userapi.com/XjY1zFpTOQvB08GlbIcKFi5kpserF-8-aie5Sw/_QgDwErhhrc.jpg"/>
 
-<img src="https://sun9-47.userapi.com/cwc0ggHOBTNWIelxf_GxV2CyrZNgJ-AwUEmDFg/Nx0xZ3HIxFE.jpg"/>
+
 
 
