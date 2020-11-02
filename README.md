@@ -2,6 +2,6 @@
 <br/>
 <img src="https://sun9-32.userapi.com/qcjAZZHJnXpCHKD6AfBYxsx3rvLHKuwQTURUhQ/cHc4zboO1Bg.jpg"/>
 
-<img src="https://sun9-14.userapi.com/hO_bveKo91MduzV7eKE5i_lEaC3AEOEyBjibow/x9hMVNL15oY.jpg"/>
+<img src="https://sun9-26.userapi.com/UrDb4eMd2okcStjKAa-abjtVKgEGVWGvsBbplw/7mRp4KInY78.jpg"/>
 
 <img src="https://sun9-62.userapi.com/XjY1zFpTOQvB08GlbIcKFi5kpserF-8-aie5Sw/_QgDwErhhrc.jpg"/>
