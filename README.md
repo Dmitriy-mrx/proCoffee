@@ -26,7 +26,11 @@
 
 
 <h1>Поиск по запросу в поисковой строке </h1>
-  
+  <hr/>
+  <img src="https://sun9-69.userapi.com/gsiDipsL0Y3zulyyF0s4XMLvgbu-WEqip6j1GA/z9jp-26HgxU.jpg"/>
+  <hr/>
+<img src="https://sun9-4.userapi.com/xKwD3xlilTblO9KGeOcZda4sBrYi2hDMkgOtpw/4KqKMa4IcqA.jpg"/>
+  <hr/>
   
 <h1>Поиск по загруженной фото </h1>
   
@@ -36,10 +40,8 @@
   <hr/>
   
 
-5
-<img src="https://sun9-69.userapi.com/gsiDipsL0Y3zulyyF0s4XMLvgbu-WEqip6j1GA/z9jp-26HgxU.jpg"/>
-6
-<img src="https://sun9-4.userapi.com/xKwD3xlilTblO9KGeOcZda4sBrYi2hDMkgOtpw/4KqKMa4IcqA.jpg"/>
+
+
 7
 <img src="https://sun9-20.userapi.com/GObhzYLHPUwl8_RmkdyXXGLa-PPPPxGm4_tEQA/PkMKeSWXBxo.jpg"/>
 8
@@ -48,7 +50,7 @@
 <img src="https://sun9-50.userapi.com/v1MsIgw7BKRH2T-8q6RYTPut_TCCtOki37_SIA/021wUYjjuIM.jpg"/>
 10
 <img src="https://sun9-47.userapi.com/StrqJawqIqDpPiG9WVcRwbnL_dayQFnC1b8WiA/JEFK6VsU3VQ.jpg"/>
-11
+
 
 
 <img src="https://sun9-62.userapi.com/XjY1zFpTOQvB08GlbIcKFi5kpserF-8-aie5Sw/_QgDwErhhrc.jpg"/>
