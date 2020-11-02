@@ -1,12 +1,11 @@
-<h2>Посмотреть наше приложение:</h2>
+<img src="https://sun9-75.userapi.com/BRg49xQ2cmWIvvQ_i-TxZCjpGxtX-gFCAuhwBg/PHExZHBL02s.jpg"/>
+<br/>
 <h1><a href="https://cocoffee.herokuapp.com/signin">ProCoffee</a><h/1>
 <br/>
+<img src="https://sun9-32.userapi.com/qcjAZZHJnXpCHKD6AfBYxsx3rvLHKuwQTURUhQ/cHc4zboO1Bg.jpg"/>
   
   
-
-
   
-<h2>меню навигации в которой содержатся: статьи о разном кофе, поиск по словам и возможность загружать картинку с пачкой кофе.  </h2>
  
   
 <h1>Регистрация и вход</h1>
@@ -23,6 +22,9 @@
   <img src="https://sun9-52.userapi.com/6txgpjDxBeQZyKgsfdVwg_e5BW3w-hf0ZyEyfg/-3IV5le2n7c.jpg "/>
 <hr/>
 
+<h2>меню навигации в которой содержатся: статьи о разном кофе, поиск по словам и возможность загружать картинку с пачкой кофе.  </h2>
+
+
 <h1>Поиск по запросу в поисковой строке </h1>
   
   
@@ -30,11 +32,9 @@
   
 <h1>Полезные стать о кофе </h1>
   
-  1
-<img src="https://sun9-75.userapi.com/BRg49xQ2cmWIvvQ_i-TxZCjpGxtX-gFCAuhwBg/PHExZHBL02s.jpg"/>
-<br/>
-2
-<img src="https://sun9-32.userapi.com/qcjAZZHJnXpCHKD6AfBYxsx3rvLHKuwQTURUhQ/cHc4zboO1Bg.jpg"/>
+
+
+
 
 
 4
