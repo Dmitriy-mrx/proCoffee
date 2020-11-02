@@ -2,9 +2,7 @@
 <h1><a href="https://cocoffee.herokuapp.com/signin">ProCoffee</a><h/1>
 <br/>
   
-<h3>В приложении есть возможность регистрации пользователя</h3>
   
-<h3>Если у Вас уже имеется аккаунт есть возможность входа </h3>
 
 <h3>При регистрации пользователя у нас открываеться доступ к личному кабинету </h3>
   
@@ -13,8 +11,10 @@
   
 <h1>Регистрация и вход</h1>
 <hr/>
+<h3>В приложении есть возможность регистрации пользователя</h3>
   <img src="https://sun9-28.userapi.com/hYeFTDhNWW9SmkK5iOYXV6lIudLCVm7lII4NpA/tPp8IPbKV24.jpg"/>
 <hr/>
+<h3>Если у Вас уже имеется аккаунт есть возможность входа </h3>
   <img src="https://sun9-26.userapi.com/UrDb4eMd2okcStjKAa-abjtVKgEGVWGvsBbplw/7mRp4KInY78.jpg"/>
 <hr/>
   
