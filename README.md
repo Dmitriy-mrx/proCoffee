@@ -31,14 +31,11 @@
 <h1>Поиск по загруженной фото </h1>
   
 <h1>Полезные стать о кофе </h1>
+  <hr/>
+<img src="https://sun9-54.userapi.com/4o0Sf3CG7x1kJdeHaeqzR5hJnx708Gw1CJleow/qaR-lAy1acE.jpg"/>
+  <hr/>
   
 
-
-
-
-
-4
-<img src="https://sun9-54.userapi.com/4o0Sf3CG7x1kJdeHaeqzR5hJnx708Gw1CJleow/qaR-lAy1acE.jpg"/>
 5
 <img src="https://sun9-69.userapi.com/gsiDipsL0Y3zulyyF0s4XMLvgbu-WEqip6j1GA/z9jp-26HgxU.jpg"/>
 6
